@@ -59,6 +59,7 @@ Check out my creative projects on Itch.io! I love experimenting with animations,
 - 🎮 Game development and interactive projects
 - 💡 Exploring new technologies and concepts
 - 🔧 Building tools and utilities
+- ⚙️ Cybersecurity 
 
 ## 🤝 Let's Connect!
 
