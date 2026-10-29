@@ -50,7 +50,7 @@ Check out my creative projects on Itch.io! I love experimenting with animations,
 - Advanced OS concepts and kernel development
 - Animation frameworks and techniques
 - Systems programming best practices
-- 9th standard coursework alongside my coding passion
+- Cybersecurity and ethical hacking in kali linux and other linux distro's 
 
 ## 📚 My Interests
 
